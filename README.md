@@ -1,4 +1,4 @@
 ComputerVisionMatlab
 ====================
 
-Matlab code for "CZ4003 - Computer Vision &amp; Image Processing" Labs
+Matlab code for "Computer Vision &amp; Image Processing” course Labs
